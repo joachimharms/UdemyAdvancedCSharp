@@ -1,0 +1,7 @@
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\bin\Debug\01_Interfaces.exe.config
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\bin\Debug\01_Interfaces.exe
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\bin\Debug\01_Interfaces.pdb
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\obj\Debug\01_Interfaces.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\obj\Debug\01_Interfaces.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\obj\Debug\01_Interfaces.exe
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\01_Interfaces\obj\Debug\01_Interfaces.pdb

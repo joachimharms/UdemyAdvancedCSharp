@@ -15,6 +15,12 @@ namespace _01_Interfaces
 {
     public class Löwe : ITier
     {
+        public Löwe(int alter, string geschlecht)
+        {
+            this.Alter = alter;
+            this.Geschlecht = geschlecht;
+        }
+
         public int Alter { get; set; }
 
         public string Geschlecht { get; set; }
