@@ -1,0 +1,7 @@
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\bin\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.exe.config
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\bin\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.exe
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\bin\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.pdb
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\obj\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\obj\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\obj\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.exe
+E:\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\UdemyAdvancedCSharp\Fortgeschritten\_02_AbstrakteKlassenUndAbstrakteMethoden\obj\Debug\_02_AbstrakteKlassenUndAbstrakteMethoden.pdb
