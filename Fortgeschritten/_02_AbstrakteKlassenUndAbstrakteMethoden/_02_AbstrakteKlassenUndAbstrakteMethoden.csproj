@@ -43,9 +43,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arbeiter.cs" />
+    <Compile Include="Arbeiter2.cs" />
     <Compile Include="Elektriker.cs" />
     <Compile Include="Handwerker.cs" />
+    <Compile Include="Mechatroniker.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Programmierer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

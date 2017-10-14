@@ -8,7 +8,7 @@
 
         public string Name { get; set; }
 
-        // Methoden
+        // abstrakte Methoden
         public abstract void ArbeitVerrichten();
     }
 }
